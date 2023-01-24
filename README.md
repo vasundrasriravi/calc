@@ -154,10 +154,10 @@ for (item of buttons) {
 
 ## OUTPUT:
 
-![OUTPUT](./calcout.png)
+![OUTPUT](./out.png)
 
 ## HTML VALIDATOR:
-![HTML VALIDATOR](./calcvalid.png)
+![HTML VALIDATOR](./valid.png)
 
 ## RESULT:
 
